@@ -2,8 +2,9 @@
   "0.0.0": "Build",
   "0.1.0": "Companion Added",
   "0.2.0": "Commands Added",
-  "0.2.1": "Added ServerLock",
-  "0.2.2": "Added Age Server Lock",
+  "0.2.1": "Added ServerLock Command",
+  "0.2.2": "Added Age Server Lock Command",
   "0.2.3": "Added Protect - Reflect",
-  "0.2.4": "Added Command Bar"
+  "0.2.4": "Added Command Bar",
+  "0.2.5": "Added Kill Command"
 },
