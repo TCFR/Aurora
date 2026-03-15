@@ -1,4 +1,7 @@
 {
   "0.1.0": "Release",
-  "0.1.1": "Added ServerLock"
+  "0.1.1": "Added ServerLock",
+  "0.1.2": "Added Age Server Lock",
+  "0.1.3": "Added Protect - Reflect",
+  "0.2.0": "Added Command Bar"
 },
