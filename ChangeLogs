@@ -6,5 +6,6 @@
   "0.2.2": "Added Age Server Lock Command",
   "0.2.3": "Added Protect - Reflect",
   "0.2.4": "Added Command Bar",
-  "0.2.5": "Added Kill Command"
+  "0.2.5": "Added Kill Command",
+  "0.2.6": "Removed Chat Bubble And Replaced It With Rbx Notification"
 },
