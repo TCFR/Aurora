@@ -12,6 +12,6 @@
   "0.3.0": "Made Database Better",
   "0.3.1": "Fixed Http Ratelimited Causes",
   "0.3.2": "Improved Enemy Detection For Protect Mode",
-  "0.3.3": "Inplimented Private Reserve Servers - Args for Reserve Server Command",
+  "0.3.3": "Implemented Private Reserve Servers - Args for Reserve Server Command",
   "0.3.4": "Added Bans Command"
 },
