@@ -16,5 +16,6 @@
   "0.3.4": "Added Bans Command",
   "0.3.5": "Improved Protect - Reflect" 
   "0.3.6": "Added Whitelist Command For All Serverlocks",
-  "0.3.7": "Added Msg Command For Admin"
+  "0.3.7": "Added Msg Command For Admin",
+  "0.3.8": "Improved Reserved Server And Added Kick Command" 
 },
